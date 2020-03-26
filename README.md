@@ -1,2 +1,2 @@
-# Hazzmister
+# Hazzmister.github.io
 Personal site
